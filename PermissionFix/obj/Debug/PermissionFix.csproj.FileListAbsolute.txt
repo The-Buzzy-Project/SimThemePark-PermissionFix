@@ -1,0 +1,6 @@
+C:\Users\ryang\AppData\Local\Temporary Projects\PermissionFix\bin\Debug\PermissionFix.exe.config
+C:\Users\ryang\AppData\Local\Temporary Projects\PermissionFix\bin\Debug\PermissionFix.exe
+C:\Users\ryang\AppData\Local\Temporary Projects\PermissionFix\bin\Debug\PermissionFix.pdb
+C:\Users\ryang\AppData\Local\Temporary Projects\PermissionFix\obj\Debug\PermissionFix.csprojResolveAssemblyReference.cache
+C:\Users\ryang\AppData\Local\Temporary Projects\PermissionFix\obj\Debug\PermissionFix.exe
+C:\Users\ryang\AppData\Local\Temporary Projects\PermissionFix\obj\Debug\PermissionFix.pdb
