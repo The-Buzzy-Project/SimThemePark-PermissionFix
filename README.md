@@ -1,1 +1,1 @@
-# SimThemePark-PermissionFix
+# SimThemePark-PermissionFix [![Build Status](https://travis-ci.org/The-Buzzy-Project/SimThemePark-PermissionFix.svg?branch=master)](https://travis-ci.org/The-Buzzy-Project/SimThemePark-PermissionFix)
