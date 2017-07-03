@@ -14,6 +14,7 @@ namespace PermissionFix
         static void Main(string[] args)
         {
             changePermissions(Directory.GetCurrentDirectory());
+            changePermissions(Directory.GetCurrentDirectory() + "\\data");
         }
         static void changePermissions(string file)
         {

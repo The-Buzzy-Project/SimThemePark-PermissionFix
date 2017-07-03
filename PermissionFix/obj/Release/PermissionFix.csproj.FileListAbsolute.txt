@@ -1,0 +1,6 @@
+C:\Users\ryang\Documents\Visual Studio 2017\Projects\PermissionFix\PermissionFix\bin\Release\PermissionFix.exe.config
+C:\Users\ryang\Documents\Visual Studio 2017\Projects\PermissionFix\PermissionFix\bin\Release\PermissionFix.exe
+C:\Users\ryang\Documents\Visual Studio 2017\Projects\PermissionFix\PermissionFix\bin\Release\PermissionFix.pdb
+C:\Users\ryang\Documents\Visual Studio 2017\Projects\PermissionFix\PermissionFix\obj\Release\PermissionFix.csprojResolveAssemblyReference.cache
+C:\Users\ryang\Documents\Visual Studio 2017\Projects\PermissionFix\PermissionFix\obj\Release\PermissionFix.exe
+C:\Users\ryang\Documents\Visual Studio 2017\Projects\PermissionFix\PermissionFix\obj\Release\PermissionFix.pdb
