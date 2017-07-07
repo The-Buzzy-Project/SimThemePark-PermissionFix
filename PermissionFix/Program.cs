@@ -13,8 +13,22 @@ namespace PermissionFix
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Granting permission to Golden Ticket. This may take a few minutes...");
+            Console.WriteLine("");
+            Console.WriteLine("");
+
             changePermissions(Directory.GetCurrentDirectory());
+            Console.WriteLine("Completed step 1/6");
             changePermissions(Directory.GetCurrentDirectory() + "\\data");
+            Console.WriteLine("Completed step 2/6");
+            changePermissions(Directory.GetCurrentDirectory() + "\\data\\levels\\fantasy");
+            Console.WriteLine("Completed step 3/6");
+            changePermissions(Directory.GetCurrentDirectory() + "\\data\\levels\\hallow");
+            Console.WriteLine("Completed step 4/6");
+            changePermissions(Directory.GetCurrentDirectory() + "\\data\\levels\\jungle");
+            Console.WriteLine("Completed step 5/6");
+            changePermissions(Directory.GetCurrentDirectory() + "\\data\\levels\\space");
+            Console.WriteLine("Completed step 6/6");
         }
         static void changePermissions(string file)
         {
